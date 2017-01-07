@@ -1,7 +1,7 @@
 #快捷键操作
  
 ####How to use:
-	http://www.bilibili.com/video/av7031954/
+[Video Link:](http://www.bilibili.com/video/av7031954/)
 
  
 ####Alt + G ：
