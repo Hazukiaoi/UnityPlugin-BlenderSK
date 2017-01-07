@@ -1,6 +1,6 @@
 #快捷键操作
  
- ####How to use:
+####How to use:
 	http://www.bilibili.com/video/av7031954/
 
  
