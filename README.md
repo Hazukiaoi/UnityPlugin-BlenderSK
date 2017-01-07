@@ -1,5 +1,9 @@
 #快捷键操作
  
+ ####How to use:
+	http://www.bilibili.com/video/av7031954/
+
+ 
 ####Alt + G ：
 	重置选中对象的位移到世界0坐标 
 	Reset Object Position to (0,0,0)
@@ -43,5 +47,3 @@
 ####PrefabLis - Set Prefab to Lib : 设置Prefab到库，入库后可用快速创建菜单创建到场景 
 				Add prefab to lib
 
-####How to use:
-	http://www.bilibili.com/video/av7031954/
